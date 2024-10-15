@@ -1,0 +1,4 @@
+campaign_id,user_id,opens,clicks,unsubscribes,email_sent_date,emails_sent
+1,101,200,50,1,2023-01-01,1000
+1,102,150,30,0,2023-01-01,1000
+1,103,300,75,2,2023-01-01,1000
